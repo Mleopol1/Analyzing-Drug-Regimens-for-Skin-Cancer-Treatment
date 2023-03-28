@@ -21,6 +21,7 @@ The cleaning of this data involved:
 ## Summary Statistics
 
 Once the data was cleaned, summary statistics were run in order to analyze the tumor volumes for each drug regimen.
+
 ![image](https://user-images.githubusercontent.com/111384049/228363636-1087114d-c6d1-462c-ac6d-df35894d6aed.png)
 
 ## Visualizations
@@ -28,6 +29,7 @@ Once the data was cleaned, summary statistics were run in order to analyze the t
 Several different visualizations are created in order to learn more about the results, including:
 
    * the sample size for each treatment regimen
+   
    ![image](https://user-images.githubusercontent.com/111384049/228365548-43b5b7c1-6576-42d3-a23e-fda4cef6c176.png)
 
    * gender distribution
