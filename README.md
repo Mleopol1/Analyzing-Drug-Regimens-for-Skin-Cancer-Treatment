@@ -28,17 +28,20 @@ Once the data was cleaned, summary statistics were run in order to analyze the t
 
 Several different visualizations are created in order to learn more about the results, including:
 
-   * the sample size for each treatment regimen
+   * the sample size for each treatment regimen:
    
    ![image](https://user-images.githubusercontent.com/111384049/228365548-43b5b7c1-6576-42d3-a23e-fda4cef6c176.png)
-
-   * gender distribution
+- - - -
+   * gender distribution:
+   
    ![image](https://user-images.githubusercontent.com/111384049/228365637-9e34c65a-40b4-4b28-85be-3542097a042b.png)
-
-   * final tumor volume after treatment for the top 4 most effective drug regimens
+- - - -
+   * final tumor volume after treatment for the top 4 most effective drug regimens:
+   
    ![image](https://user-images.githubusercontent.com/111384049/228365713-a0c1a110-6134-4970-9fc9-94ead3a52bdc.png)
-
-   * the relationship between tumor volume and mouse weight.
+- - - -
+   * the relationship between tumor volume and mouse weight:
+   
    ![image](https://user-images.githubusercontent.com/111384049/228365848-fe5798ef-2382-48e2-bea0-ff1af487b6fe.png)
 
 ## References
